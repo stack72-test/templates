@@ -1,5 +1,8 @@
 {
     "name": "typescript",
+    "description": "",
+    "repository": "",
+    "license": "",
     "devDependencies": {
         "@types/node": "latest"
     },
