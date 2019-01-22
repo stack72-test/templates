@@ -1,5 +1,1 @@
-name: ${PROJECT}
-description: ${DESCRIPTION}
-runtime: nodejs
-template:
-  description: A minimal TypeScript Pulumi program
+<not valid yaml>
