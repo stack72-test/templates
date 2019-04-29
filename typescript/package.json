@@ -1,5 +1,5 @@
 {
-    "name": "typescript",
+    "name": "typescript/illegal",
     "devDependencies": {
         "@types/node": "latest"
     },
